@@ -1,0 +1,5 @@
+Docker container port forwards:
+       haproxy 80->80
+       frontend 81->80
+       logstash 93->2000
+       mongo 91->27017, 92->28017
